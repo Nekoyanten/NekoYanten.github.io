@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "forms",
+			"path": "."
+		},
+		{
+			"name": "NekoYanten.github.io",
+			"path": "../../../../../../xampp/htdocs/NekoYanten.github.io"
+		},
+		{
+			"name": "assets",
+			"path": "../assets"
+		}
+	],
+	"settings": {}
+}
