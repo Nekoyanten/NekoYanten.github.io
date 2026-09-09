@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-labelledby="title desc">
+  <title id="title">Investigación: Biometría Conductual e IA aplicada a Fintech</title>
+  <desc id="desc">Proyecto de investigación sobre prevención de ingeniería social en fintech mediante biometría conductual multimodal y arquitecturas predictivas VL-JEPA</desc>
+  <defs>
+    <linearGradient id="bgR" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#013a38"/>
+      <stop offset="100%" stop-color="#001210"/>
+    </linearGradient>
+    <linearGradient id="lineR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#005451"/>
+      <stop offset="100%" stop-color="#5fd6ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#bgR)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="url(#lineR)"/>
+  <circle cx="1080" cy="90" r="180" fill="#5fd6ce" opacity="0.08"/>
+  <circle cx="90" cy="430" r="150" fill="#5fd6ce" opacity="0.08"/>
+
+  <!-- brain + shield icon -->
+  <g transform="translate(90,110)" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+    <path d="M70 10 C30 10 10 40 15 70 C-5 85 0 120 25 130 C25 160 55 180 80 170 C95 190 130 190 140 165
+             C170 170 195 145 185 115 C205 95 195 60 165 55 C160 25 120 5 90 20 C85 12 78 8 70 10 Z"/>
+    <path d="M70 40 v100 M45 60 h20 M100 70 h25 M55 100 h20 M95 110 h25" stroke-width="4"/>
+    <circle cx="70" cy="40" r="4" fill="#5fd6ce" stroke="none"/>
+    <circle cx="45" cy="60" r="4" fill="#5fd6ce" stroke="none"/>
+    <circle cx="125" cy="70" r="4" fill="#5fd6ce" stroke="none"/>
+    <circle cx="55" cy="100" r="4" fill="#5fd6ce" stroke="none"/>
+    <circle cx="120" cy="110" r="4" fill="#5fd6ce" stroke="none"/>
+  </g>
+  <g transform="translate(230,150)" fill="none" stroke="#5fd6ce" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 0 L80 15 V55 C80 85 60 105 40 115 C20 105 0 85 0 55 V15 Z"/>
+    <path d="M22 58 L35 71 L60 44" stroke="#ffffff" stroke-width="7"/>
+  </g>
+
+  <text x="360" y="150" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Proyecto de investigación</text>
+  <text x="360" y="195" font-family="Roboto, Arial, sans-serif" font-size="19" fill="#bfe8e4">
+    <tspan x="360" dy="0">Biometría conductual + IA (VL-JEPA) para prevenir</tspan>
+    <tspan x="360" dy="28">ingeniería social en fintech</tspan>
+  </text>
+
+  <g font-family="Roboto, Arial, sans-serif" font-size="14" fill="#013a38" text-anchor="middle">
+    <rect x="360" y="260" width="130" height="30" rx="15" fill="#ffffff"/>
+    <text x="425" y="280">Inteligencia Artificial</text>
+    <rect x="500" y="260" width="150" height="30" rx="15" fill="#ffffff"/>
+    <text x="575" y="280">Biometría Conductual</text>
+    <rect x="660" y="260" width="150" height="30" rx="15" fill="#ffffff"/>
+    <text x="735" y="280">Seguridad en Fintech</text>
+  </g>
+
+  <text x="360" y="330" font-family="Roboto, Arial, sans-serif" font-size="15" fill="#8fd3cd">
+    Ponente — V Encuentro de Semilleros de Investigación · CESMAG-ESIC · Mayo 2026
+  </text>
+</svg>
